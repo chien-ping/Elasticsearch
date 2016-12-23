@@ -9,5 +9,7 @@ sample
 https://bitbucket.org/ssmith/devweek15-code
 
 
-Indexing data from postgres to solr/elasticsearch
-http://stackoverflow.com/questions/34456119/indexing-data-from-postgres-to-solr-elasticsearch
+Elasticsearch replication of other system data?
+http://stackoverflow.com/questions/34477095/elasticsearch-replication-of-other-system-data/34477639#34477639
+using the Logstash JDBC input
+using the JDBC importer  tool
