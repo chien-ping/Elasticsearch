@@ -7,3 +7,7 @@ https://developer.atlassian.com/blog/2015/02/realtime-requests-psql-elasticsearc
 
 sample
 https://bitbucket.org/ssmith/devweek15-code
+
+
+Indexing data from postgres to solr/elasticsearch
+http://stackoverflow.com/questions/34456119/indexing-data-from-postgres-to-solr-elasticsearch
