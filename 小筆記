@@ -1,0 +1,10 @@
+1.啟動elasticsearch 
+進入elasticsearch資料夾執行
+bin/elasticsearch
+
+2. 殺死進程https://www.elastic.co/guide/en/elasticsearch/reference/master/stopping-elasticsearch.html
+找出process
+$ jps | grep Elasticsearch
+殺死
+kill -9 "PID"
+
