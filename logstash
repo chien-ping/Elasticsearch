@@ -1,2 +1,3 @@
-
+如何從關聯式資料庫同步資料到ES
 https://www.elastic.co/blog/logstash-jdbc-input-plugin
+*可以從外部載入SQL檔
